@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CinderClimb", "CinderClimb.vcxproj", "{9C5B6FFC-6775-45DA-9CC3-4DBB4DB7D335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C5B6FFC-6775-45DA-9CC3-4DBB4DB7D335}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C5B6FFC-6775-45DA-9CC3-4DBB4DB7D335}.Debug|Win32.Build.0 = Debug|Win32
+		{9C5B6FFC-6775-45DA-9CC3-4DBB4DB7D335}.Release|Win32.ActiveCfg = Release|Win32
+		{9C5B6FFC-6775-45DA-9CC3-4DBB4DB7D335}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
